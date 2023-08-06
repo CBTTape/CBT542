@@ -1,0 +1,37 @@
+    CBT File 542 - Member SPACENEW
+Subject:  CBT File 542 - Member SPACENEW
+From:     "Andreas Freybier" <andreas.freybier@freybits.de>
+Date:     4/4/2023, 3:53 PM
+To:       "Sam Golob" <sbgolob@cbttape.org>
+
+Hello Sam,
+
+it is a long time ago, that you heard from me.
+
+Two Years ago I retired, but from time to time I am asked by good friends for
+some support.
+
+I recommended using the SPACENEW to one of them.
+
+We recognized, that with z/OS v2r3 and still in v2r5 the
+IDCAMS DCOLLECT records for ACTIVE DATA SET INFORMATION (RECORD
+TYPE "D") were enlarged.
+
+So for this the LRECL for OUTDS in Subroutine DISP_VOLUME must be adjusted.
+This has been done in member SPACEZ23.
+You find a new member in the attached file. Please add this to CBT file 542.
+
+Many Greetings
+
+Andreas
+
+
+
+Andreas Freybier
+Am Herrendamm 23
+22889 Tangstedt
+
+: +49 170 408 78 18
+
+Andreas.freybier@freybits.de
+
